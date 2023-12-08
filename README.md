@@ -15,4 +15,4 @@ Database used : Dynamic real time data (Static database independent)
 
 Platform independent Music recommender
 
-My favouritr Arijit, What's yours? Try it! you will Love it!
+My favourite Arijit, What's yours? Try it! you will Love it!
